@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
