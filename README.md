@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0387-first-unique-character-in-a-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivvaaaaaaa/LEETCODE-CHALLANGE-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
